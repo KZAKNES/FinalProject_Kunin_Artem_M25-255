@@ -5,7 +5,7 @@
 ## Структура проекта
 
 
-finalproject_<фамилия>_<группа>/
+finalproject
 │  
 ├── data/
 │    ├── users.json
@@ -116,5 +116,6 @@ make project
 
 
 ### Asciinema
+
 
 https://asciinema.org/a/AzjXXNIkciOyThHN
