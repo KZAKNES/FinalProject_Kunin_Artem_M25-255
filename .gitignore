@@ -4,5 +4,4 @@ __pycache__/
 *$py.class
 .ruff_cache
 dist/
-session.json
 .cast
